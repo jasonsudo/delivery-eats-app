@@ -1,19 +1,20 @@
 {
-  "name": "delivery-eats",
-  "version": "1.0.0",
-  "description": "> TODO: description",
-  "author": "Jason Hamilton <jason@localhostMail.com>",
-  "homepage": "",
-  "license": "ISC",
-  "main": "lib/delivery-eats.js",
-  "directories": {
-    "lib": "lib",
-    "test": "__tests__"
-  },
-  "files": [
-    "lib"
-  ],
+  "private": true,
   "scripts": {
-    "test": "node ./__tests__/delivery-eats.test.js"
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "gray-matter": "^4.0.3",
+    "next": "latest",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "remark": "^14.0.2",
+    "remark-html": "^15.0.1"
+  },
+  "engines": {
+    "node": ">=18"
   }
 }
