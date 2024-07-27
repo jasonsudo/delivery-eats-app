@@ -14,3 +14,13 @@
 - SSR
 - Login/Signup
 - Login/Signup/FPassword/RPassword/RToken (MicroService/NEST JS/GraphQL)
+
+## INFO
+(react-hook-form website)[https://react-hook-form.com]
+(Microservices)[https://microservices.io]
+
+### Open Source
+#### Gateway
+- Kong
+#### API Messaging
+- RabbitMQ
