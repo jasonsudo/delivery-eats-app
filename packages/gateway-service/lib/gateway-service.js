@@ -1,7 +1,7 @@
-'use strict';
+"use strict";
 
 module.exports = gatewayService;
 
 function gatewayService() {
-  return 'Hello from gatewayService';
+  return "Hello from gatewayService";
 }

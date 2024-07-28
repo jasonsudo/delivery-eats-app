@@ -1,7 +1,7 @@
-'use strict';
+"use strict";
 
 module.exports = utilities;
 
 function utilities() {
-  return 'Hello from utilities';
+  return "Hello from utilities";
 }

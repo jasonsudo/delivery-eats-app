@@ -1,7 +1,7 @@
-'use strict';
+"use strict";
 
 module.exports = restaurantService;
 
 function restaurantService() {
-  return 'Hello from restaurantService';
+  return "Hello from restaurantService";
 }
