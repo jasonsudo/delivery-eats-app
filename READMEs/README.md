@@ -24,3 +24,6 @@
 - Kong
 #### API Messaging
 - RabbitMQ
+
+### Svelte
+kit.svelte.dev/docs
