@@ -27,3 +27,6 @@
 
 ### Svelte
 kit.svelte.dev/docs
+
+### NextJS
+beta.nextjs.org/docs
