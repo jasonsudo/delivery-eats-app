@@ -1,1 +1,11 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# `delivery-eats`
+
+> TODO: description
+
+## Usage
+
+```
+const deliveryEats = require('delivery-eats');
+
+// TODO: DEMONSTRATE API
+```

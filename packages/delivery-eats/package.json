@@ -1,33 +1,23 @@
 {
-  "private": true,
+  "name": "@jasonsudo/delivery-eats",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Jason Hamilton <jason@localhostMail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/delivery-eats.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "github.com:jasonsudo/delivery-eats-app.git"
+  },
   "scripts": {
-    "build": "next build",
-    "dev": "next dev",
-    "start": "next start"
-  },
-  "dependencies": {
-    "date-fns": "^2.29.3",
-    "gray-matter": "^4.0.3",
-    "next": "latest",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "react-hook-form": "^7.52.1",
-    "remark": "^14.0.2",
-    "remark-html": "^15.0.1"
-  },
-  "engines": {
-    "node": ">=18"
-  },
-  "devDependencies": {
-    "@tailwindcss/forms": "^0.5.7",
-    "@types/jest": "^29.5.12",
-    "@types/node": "^20.14.11",
-    "@types/react": "^18.3.3",
-    "@types/react-dom": "^18.3.0",
-    "autoprefixer": "^10.4.19",
-    "next-images": "^1.8.5",
-    "postcss": "^8.4.39",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17",
-    "typescript": "^5.5.4"
+    "test": "node ./__tests__/delivery-eats.test.js"
   }
 }
